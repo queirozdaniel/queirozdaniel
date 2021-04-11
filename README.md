@@ -1,6 +1,6 @@
 ### Hi there, I'm Daniel 👋
 
-- 🔭 I’m currently working on becoma a fullstack developer with Spring and Vue.js
+- 🔭 I’m currently working on become a fullstack developer with Spring and Vue.js
 - 🌱 I’m currently learning Vue.js to match my backend Spring Framework skills
 - 🤔 I’m looking for help with DevOps Skills.
 - 💬 Ask me about Java, Javascript. About Spring Boot and Vue.js.
